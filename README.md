@@ -1,7 +1,8 @@
 ## Eduardo Kleber
 <ul type='disc'>
-  <li>Estagiário de TI 🧑‍💼</li>
+  <li>Desenvolvedor Front-End 🖥️</li>
   <li>Estudando Desenvolvimento WEB 🖥️</li>
+  <li>Estagiário de TI 🧑‍💼</li>
 </ul>
 
 <div align="left">
