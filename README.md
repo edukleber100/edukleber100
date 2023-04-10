@@ -2,7 +2,7 @@
 <ul type='disc'>
   <li>Desenvolvedor Front-End 🖥️</li>
   <li>Estudando Desenvolvimento WEB 🖥️</li>
-  <li>Estagiário de TI 🧑‍💼</li>
+  <li>Analista de suporte🧑‍💼</li>
 </ul>
 
 <div align="left">
