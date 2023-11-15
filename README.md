@@ -1,6 +1,6 @@
 ## Eduardo Kleber
 <ul type='disc'>
-  <li>Desenvolvedor 🖥️</li>
+  <li>Web Developer | JavaScript | Python | HTML | CSS | PHP | Bootstrap | ECS6 | SQL 🖥️</li>
 </ul>
 
 <div align="left">
