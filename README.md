@@ -1,7 +1,6 @@
 ## Eduardo Kleber
 <ul type='disc'>
   <li>Desenvolvedor Front-End 🖥️</li>
-  <li>Estudando Desenvolvimento WEB 🖥️</li>
 </ul>
 
 <div align="left">
