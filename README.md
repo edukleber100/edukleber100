@@ -1,6 +1,6 @@
 ## Eduardo Kleber
 <ul type='disc'>
-  <li>Desenvolvedor Front-End 🖥️</li>
+  <li>Desenvolvedor 🖥️</li>
 </ul>
 
 <div align="left">
